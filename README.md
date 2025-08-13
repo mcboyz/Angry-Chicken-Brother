@@ -1,5 +1,5 @@
 # Angry-Chicken-Brother
 Angry Chicken Web Game
 
-Mobile
-手机版
+Web
+网页版
